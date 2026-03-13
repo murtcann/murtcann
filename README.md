@@ -1,16 +1,64 @@
-## Hi there 👋
+Python | Linux | Cybersecurity
 
-<!--
-**murtcann/murtcann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Murat Can
 
-Here are some ideas to get you started:
+💻 IT Support Specialist | Python Developer | Linux Enthusiast  
+🔐 Interested in Cybersecurity and System Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- Computer Programming graduate
+- Experienced with Linux environments and system troubleshooting
+- Passionate about Python development and CLI tools
+- Currently improving my skills in **Linux systems, Python and cybersecurity**
+
+---
+
+## 🛠 Technologies & Tools
+
+- Python
+- Linux
+- C#
+- MySQL
+- Git / GitHub
+- CLI Development
+- System Monitoring
+
+---
+
+## 📌 Featured Project
+
+### Linux System Monitor
+
+A colorful terminal-based Linux system monitor built with Python.
+
+Features:
+
+- CPU monitoring
+- Memory monitoring
+- Disk usage monitoring
+- Top processes tracking
+- Live terminal dashboard
+- JSON output support
+
+Repository:
+
+https://github.com/murtcann/system-monitor-linux
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtcann&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/murat-can-burmaoglu
+
+Email  
+muratcanburmaoglu@gmail.com

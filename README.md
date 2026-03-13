@@ -1,51 +1,100 @@
-Python | Linux | Cybersecurity
+Python | Linux | Cybersecurity | Cryptography
 
-# Hi there 👋 I'm Murat Can
+# Hi 👋 I'm Murat Can
 
 💻 IT Support Specialist | Python Developer | Linux Enthusiast  
-🔐 Interested in Cybersecurity and System Monitoring
+🔐 Interested in Cybersecurity, System Monitoring and Low-level Systems
 
 ---
 
 ## 🚀 About Me
 
 - Computer Programming graduate
-- Experienced with Linux environments and system troubleshooting
-- Passionate about Python development and CLI tools
-- Currently improving my skills in **Linux systems, Python and cybersecurity**
+- Interested in **Linux systems, cybersecurity and backend development**
+- Experienced with **Python, C#, Linux environments and CLI tools**
+- Currently improving my skills in **system programming and security**
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![CSharp](https://img.shields.io/badge/C%23-.NET-purple)
+![Linux](https://img.shields.io/badge/Linux-CLI-green)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+
+Languages & Tools
 
 - Python
-- Linux
 - C#
-- MySQL
+- Linux
 - Git / GitHub
+- MySQL
 - CLI Development
-- System Monitoring
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
-### Linux System Monitor
+### 🖥 Linux System Monitor (Python)
 
-A colorful terminal-based Linux system monitor built with Python.
+Terminal-based Linux system monitoring tool.
 
 Features:
 
 - CPU monitoring
 - Memory monitoring
 - Disk usage monitoring
-- Top processes tracking
-- Live terminal dashboard
+- Top running processes
+- Rich terminal UI
+- Live monitoring mode
 - JSON output support
 
-Repository:
-
+🔗  
 https://github.com/murtcann/system-monitor-linux
+
+---
+
+### 🔐 AES-256 Encryption Tool (C#)
+
+C# console application demonstrating AES-256 based text encryption and decryption.
+
+Features:
+
+- AES-256 encryption
+- text encryption & decryption
+- initialization vector (IV) generation
+- .NET cryptography libraries
+
+🔗  
+https://github.com/murtcann/C-AES
+
+---
+
+### ⛓ Blockchain Prototype (C#)
+
+A simple blockchain implementation demonstrating blockchain fundamentals.
+
+Features:
+
+- SHA-256 hashing
+- Proof-of-Work (PoW)
+- block creation
+- block validation
+- chain integrity verification
+
+🔗  
+https://github.com/murtcann/C-BlockChain
+
+---
+
+### 📐 Euclidean Distance Calculator (Python)
+
+Python implementation of Euclidean distance calculation between points.
+
+🔗  
+https://github.com/murtcann/euclidianDistance
 
 ---
 
@@ -58,7 +107,7 @@ https://github.com/murtcann/system-monitor-linux
 ## 📫 Contact
 
 LinkedIn  
-https://www.linkedin.com/in/murat-can-burmaoglu
+https://www.linkedin.com/in/murat-can-burmaoglu-409a07240
 
 Email  
 muratcanburmaoglu@gmail.com
